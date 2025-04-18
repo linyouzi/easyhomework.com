@@ -234,15 +234,15 @@ body {
     border-radius: 10px;
     border: #D3D3D3 solid 0px;
     margin-left: 10px;
-    background-color: #D3D3D3;
+    background-color: #94a1b2;
     overflow: hidden;
   }
   
   .barIn {
     height: 90%;
     border-radius: 10px;
-    border: #e3f6f5 solid 1px;
-    background: #e3f6f5;
+    border: #b8c1ec solid 1px;
+    background: #b8c1ec;
     animation: load 3s ease-in;
   }
   
